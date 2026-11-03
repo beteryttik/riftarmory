@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " V ",
+    " C ",
+    " R "
+  ],
+  "key": {
+    "V": {
+      "id": "riftarmory:void_shard"
+    },
+    "C": {
+      "id": "riftarmory:lightning_charge"
+    },
+    "R": {
+      "id": "riftarmory:diamond_rod"
+    }
+  },
+  "result": {
+    "id": "riftarmory:destroy_stick",
+    "count": 1
+  }
+}

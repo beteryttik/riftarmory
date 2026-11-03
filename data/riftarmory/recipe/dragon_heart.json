@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "id": "minecraft:fire_charge"
+    },
+    {
+      "id": "minecraft:fire_charge"
+    },
+    {
+      "id": "minecraft:fire_charge"
+    },
+    {
+      "id": "minecraft:fire_charge"
+    },
+    {
+      "id": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "id": "riftarmory:dragon_heart",
+    "count": 1
+  }
+}

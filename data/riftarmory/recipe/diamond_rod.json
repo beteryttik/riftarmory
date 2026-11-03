@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "id": "minecraft:diamond"
+    },
+    {
+      "id": "minecraft:diamond"
+    },
+    {
+      "id": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "id": "riftarmory:diamond_rod",
+    "count": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "id": "minecraft:obsidian"
+    },
+    {
+      "id": "minecraft:obsidian"
+    },
+    {
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "id": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "id": "riftarmory:void_shard",
+    "count": 1
+  }
+}

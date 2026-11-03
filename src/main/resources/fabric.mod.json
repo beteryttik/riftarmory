@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "riftarmory",
+  "version": "${version}",
+  "name": "Rift Armory",
+  "description": "Комплекты Разлома, Дракона, Молнии и Призрака, Палка Уничтожения и сундуки-разломы.",
+  "authors": [
+    "you"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.riftarmory.RiftArmory"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": ">=1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

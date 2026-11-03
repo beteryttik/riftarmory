@@ -1,0 +1,18 @@
+{
+  "itemGroup.riftarmory": "Rift Armory",
+  "item.riftarmory.diamond_rod": "Diamond Rod",
+  "item.riftarmory.rift_fragment": "Void Fragment",
+  "item.riftarmory.void_shard": "Void Shard",
+  "item.riftarmory.dragon_heart": "Dragon Heart",
+  "item.riftarmory.ghost_glass": "Ghost Glass",
+  "item.riftarmory.lightning_charge": "Lightning Charge",
+  "item.riftarmory.mace_rift": "Mace of the Rift",
+  "item.riftarmory.spear_rift": "Spear of the Rift",
+  "item.riftarmory.mace_dragon": "Dragon Mace",
+  "item.riftarmory.spear_dragon": "Dragon Spear",
+  "item.riftarmory.mace_lightning": "Lightning Mace",
+  "item.riftarmory.mace_ghost": "Ghost Mace",
+  "item.riftarmory.spear_ghost": "Ghost Spear",
+  "item.riftarmory.destroy_stick": "Stick of Destruction",
+  "item.riftarmory.destroy_stick.lore": "Will destroy this server to hell."
+}

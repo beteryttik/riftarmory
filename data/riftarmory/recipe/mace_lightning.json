@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " X ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "X": {
+      "id": "riftarmory:lightning_charge"
+    },
+    "S": {
+      "id": "riftarmory:diamond_rod"
+    }
+  },
+  "result": {
+    "id": "riftarmory:mace_lightning",
+    "count": 1
+  }
+}

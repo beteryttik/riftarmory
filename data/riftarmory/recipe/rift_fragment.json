@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "id": "minecraft:ender_pearl"
+    },
+    {
+      "id": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "id": "riftarmory:rift_fragment",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "id": "minecraft:redstone"
+    },
+    {
+      "id": "minecraft:redstone"
+    },
+    {
+      "id": "minecraft:redstone"
+    },
+    {
+      "id": "minecraft:redstone"
+    },
+    {
+      "id": "minecraft:lightning_rod"
+    }
+  ],
+  "result": {
+    "id": "riftarmory:lightning_charge",
+    "count": 1
+  }
+}

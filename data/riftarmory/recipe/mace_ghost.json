@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " X ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "X": {
+      "id": "riftarmory:ghost_glass"
+    },
+    "S": {
+      "id": "riftarmory:diamond_rod"
+    }
+  },
+  "result": {
+    "id": "riftarmory:mace_ghost",
+    "count": 1
+  }
+}

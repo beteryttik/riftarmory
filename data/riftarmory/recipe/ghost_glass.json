@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "id": "minecraft:glass"
+    },
+    {
+      "id": "minecraft:glass"
+    },
+    {
+      "id": "minecraft:glass"
+    },
+    {
+      "id": "minecraft:glass"
+    },
+    {
+      "id": "minecraft:glowstone_dust"
+    }
+  ],
+  "result": {
+    "id": "riftarmory:ghost_glass",
+    "count": 1
+  }
+}
